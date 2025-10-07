@@ -10,7 +10,7 @@ import wardrobesImage from './assets/wardrobes1.png'
 import turnkeyImage from './assets/turnkey.png'
 import paintingImage from './assets/modfur.png'
 import materialsImage from './assets/carpentry.png'
-import vectorIcon from './assets/vector.png'
+import vectorIcon from './assets/Vector.png'
 // Use new URL to safely import files with spaces in name
 const customQuoteImage = new URL('./assets/custom quote.png', import.meta.url).href
 import ourServiceImage from './assets/ourservice.png'
